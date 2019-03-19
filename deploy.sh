@@ -1,5 +1,3 @@
-pwd
-ls
 # docker stop yapi-roy-cook-com
 # docker rm yapi-roy-cook-com
 # docker rmi roycook/yapi-roy-cook-com:1.5.7

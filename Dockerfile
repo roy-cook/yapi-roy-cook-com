@@ -11,4 +11,4 @@ COPY . /home/service
 # 暴露容器端口
 EXPOSE 8002
 # 启动node应用
-CMD node vendors/server/app.js
+CMD node vendors/server/install.js & node vendors/server/app.js
