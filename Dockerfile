@@ -9,6 +9,6 @@ WORKDIR /home/service
 # 拷贝所有源代码到工作目录
 COPY . /home/service
 # 暴露容器端口
-EXPOSE 8002
+EXPOSE 8082
 # 启动node应用
 CMD node vendors/server/install.js & node vendors/server/app.js
