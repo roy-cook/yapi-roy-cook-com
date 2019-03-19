@@ -1,0 +1,19 @@
+{
+   "port": "8002",
+   "adminAccount": "lh1104513635@163.com",
+   "db": {
+      "servername": "120.27.10.211",
+      "DATABASE": "yapi",
+      "port": "27017"
+   },
+   "mail": {
+      "enable": false,
+      "host": "smtp.163.com",
+      "port": 465,
+      "from": "***@163.com",
+      "auth": {
+         "user": "***@163.com",
+         "pass": "*****"
+      }
+   }
+}
