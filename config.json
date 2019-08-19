@@ -6,8 +6,7 @@
       "DATABASE": "yapi",
       "port": "27017",
       "user": "useryapi",
-      "pass": "123gogogoyapi",
-      "authSource": ""
+      "pass": "123gogogoyapi"
    },
    "mail": {
       "enable": false,
