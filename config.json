@@ -4,7 +4,10 @@
    "db": {
       "servername": "120.27.10.211",
       "DATABASE": "yapi",
-      "port": "27017"
+      "port": "27017",
+      "user": "useryapi",
+      "pass": "123gogogoyapi",
+      "authSource": ""
    },
    "mail": {
       "enable": false,
