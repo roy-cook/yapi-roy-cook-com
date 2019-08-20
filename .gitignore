@@ -1,3 +1,4 @@
 vendors/node_modules
 .history
 init.lock
+log/
